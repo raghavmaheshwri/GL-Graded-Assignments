@@ -1,2 +1,2 @@
-# GL-Graded-Assignments
+# GL Graded Assignments
 For Graded Assignments of Great Learning 
